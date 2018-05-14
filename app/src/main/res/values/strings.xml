@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Layouts</string>
 
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">Layouts</string>
     <string name="btn_skip">Skip&#160;&#160;</string>
     <string name="toast_main_skip_toast">Skip Button Clicked</string>
 </resources>
